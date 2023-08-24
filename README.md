@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@lucymail100) 
 
-<a href="https://velog.io/@lucymail100" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=flat&logo=Velog&logoColor=로고색상"/></a>
+![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seohyun-Back&show_icons=true&theme=holi )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seohyun-Back&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seohyun-Back)](https://github.com/Seohyun-Back/github-readme-stats)
