@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <a href="https://velog.io/@lucymail100" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=flat&logo=Velog&logoColor=로고색상"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seohyun-Back&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
