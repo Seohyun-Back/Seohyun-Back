@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lucymail100)](https://solved.ac/lucymail100/) 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@lucymail100) 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lucymail100)](https://solved.ac/lucymail100/) 
 
 ![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seohyun-Back&show_icons=true&theme=holi )
 
