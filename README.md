@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seohyun-Back)](https://github.com/Seohyun-Back/github-readme-stats)
 
-** 경력 기술서 **
+## 경력 기술서
 [백서현_경력기술서.pdf](https://github.com/user-attachments/files/22438627/_.pdf)
